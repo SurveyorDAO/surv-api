@@ -21,7 +21,6 @@ Create an account on Vercel to acquire the data direct from a URL.
 
 - **You will need to update:**
   - TOKEN_ADDRESS (constants)
-  - TOKEN_DECIMALS (constants)
   - MAX_SUPPLY (constants)
 
 ### **Further Considerations**
